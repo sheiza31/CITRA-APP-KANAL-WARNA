@@ -71,6 +71,8 @@ screenshoot/Screenshot 2025-11-08 184316.png
 ## 🧩 Project Structure
 
 ```
+├── screenshoot
+    ├── Screenshot 2025-11-08 184316.png # Screenshot Gui Matlab
 ├── CitraApp.fig        # GUI layout file
 ├── CitraApp.m          # MATLAB main script
 └── README.md                  # Documentation
