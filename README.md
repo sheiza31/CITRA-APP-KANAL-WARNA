@@ -76,10 +76,3 @@ screenshoot/Screenshot 2025-11-08 184316.png
 ├── CitraApp.fig        # GUI layout file
 ├── CitraApp.m          # MATLAB main script
 └── README.md                  # Documentation
-```
-
-
-
-
-
-Itu bisa bikin halaman GitHub kamu terlihat lebih keren dan profesional. Mau saya tambahkan?
