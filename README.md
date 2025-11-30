@@ -64,8 +64,6 @@ A **histogram** illustrates how pixel intensities are distributed within an imag
    * Show the corresponding **intensity histogram**
 
 ## 📸 Example GUI
-
-*(Add a screenshot of your MATLAB GUI here)*
 screenshoot/Screenshot 2025-11-08 184316.png
 
 ## 🧩 Project Structure
